@@ -8,4 +8,4 @@ unmodified - não foi modificado, já foi colocado no Git
 modified - após a primeira edição.
 staged - area onde é criada a versão. Quando a versão é fechada os arquivos são mudados para unmodified.
 
-teste edição
+teste edição, novo teste de edição.
