@@ -22,3 +22,5 @@ git shortlog -sn
 git log --graph
 git diff
 git diff --name.only
+
+editado no github
